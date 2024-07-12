@@ -1,0 +1,11 @@
+---virtual envi---
+python -m venv C:\Users\Administrator\Desktop\fakestore\venv
+
+---import python---
+pip install logging
+pip install mysql.connector
+pip install request
+
+---sql create database----
+CREATE DATABASE fakestore;
+
