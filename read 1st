@@ -9,3 +9,5 @@ pip install request
 ---sql create database----
 CREATE DATABASE fakestore;
 
+select * from fakestore;
+
